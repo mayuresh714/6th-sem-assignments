@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220111T103000Z
+DTEND:20220111T110000Z
+DTSTAMP:20220110T075747Z
+ORGANIZER;CN=Aletha Tavares:mailto:atavares@algoanalytics.com
+UID:74nb5srlu27l80923jqr1jh033@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=omkarphadtare4@gmail.com;X-NUM-GUESTS=0:mailto:omkarphadtare4@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sonalraina471@gmail.com;X-NUM-GUESTS=0:mailto:sonalraina471@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vmashalkar@algoanalytics.com;X-NUM-GUESTS=0:mailto:vmashalkar@algoa
+ nalytics.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=apant@algoanalytics.com;X-NUM-GUESTS=0:mailto:apant@algoanalytics.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=smahabal@algoanalytics.com;X-NUM-GUESTS=0:mailto:smahabal@algoanaly
+ tics.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anupampatil44@gmail.com;X-NUM-GUESTS=0:mailto:anupampatil44@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ankulkarni@algoanalytics.com;X-NUM-GUESTS=0:mailto:ankulkarni@algoa
+ nalytics.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mayureshkhanaj@gmail.com;X-NUM-GUESTS=0:mailto:mayureshkhanaj@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=prane@algoanalytics.com;X-NUM-GUESTS=0:mailto:prane@algoanalytics.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=vishwatejharer17@gmail.com;X-NUM-GUESTS=0:mailto:vishwatejharer17@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aabhapingle@gmail.com;X-NUM-GUESTS=0:mailto:aabhapingle@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hpshah294@gmail.com;X-NUM-GUESTS=0:mailto:hpshah294@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sbanerjee@algoanalytics.com;X-NUM-GUESTS=0:mailto:sbanerjee@algoana
+ lytics.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=1201.mansoor@gmail.com;X-NUM-GUESTS=0:mailto:1201.mansoor@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sujitmagar2017@gmail.com;X-NUM-GUESTS=0:mailto:sujitmagar2017@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Aletha Tavares;X-NUM-GUESTS=0:mailto:atavares@algoanalytics.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sarveshvazarkar@gmail.com;X-NUM-GUESTS=0:mailto:sarveshvazarkar@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=navinbhandari45@gmail.com;X-NUM-GUESTS=0:mailto:navinbhandari45@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rvkulkarni@pict.edu;X-NUM-GUESTS=0:mailto:rvkulkarni@pict.edu
+X-GOOGLE-CONFERENCE:https://meet.google.com/zvp-iqqd-pdy
+X-MICROSOFT-CDO-OWNERAPPTID:1564734375
+CREATED:20220110T075745Z
+DESCRIPTION:Aniruddha Pant\,  CEO of AlgoAnalytics\, Sudarshan Mahabal CTO\
+ , and Prashant Rane\, COO\, will together present the different kinds of pr
+ ojects we are currently involved in.\n\nPlease rsvp so that we have an idea
+  of how many of you will be able to attend.\nThanks\nAletha\n#9860695319\n\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-\nDo not edit this section of the description.\n\nThis event h
+ as a video call.\nJoin: https://meet.google.com/zvp-iqqd-pdy\n(US) +1 978-4
+ 84-2373 PIN: 697633732#\nView more phone numbers: https://tel.meet/zvp-iqqd
+ -pdy?pin=8311259331701&hs=7\n\nView your event at https://calendar.google.c
+ om/calendar/event?action=VIEW&eid=NzRuYjVzcmx1MjdsODA5MjNqcXIxamgwMzMgbWF5d
+ XJlc2hraGFuYWpAbQ&tok=MjYjYXRhdmFyZXNAYWxnb2FuYWx5dGljcy5jb21mMzNkMGVjYTNiN
+ DVkNDk3MzAxZDBmMGRhMWZhMzNkMTg5ZmMzOTE5&ctz=Asia%2FKolkata&hl=en&es=1.\n-::
+ ~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~::~:~::-
+LAST-MODIFIED:20220110T075746Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:AlgoAnaltics: Chat about Internship projects
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
