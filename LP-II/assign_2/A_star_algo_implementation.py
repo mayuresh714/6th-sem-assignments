@@ -15,7 +15,6 @@ class Astar:
 		return (x1-x2)**2 + (y1-y2)**2
 
 	def valid(s,x,y):
-		#print(x,y)
 		if  x < 0 or y < 0 or x >= len(s.matrix) or y >= len(s.matrix[0]) or s.matrix[x][y] == -1:
 			return False
 		else:
@@ -29,30 +28,37 @@ class Astar:
 			if s.valid(x+i[0],y+i[1]):
 				f_val = s.get_heuristic(x+i[0],y+i[1]) + s.g
 				neighbours[(x+i[0],y+i[1])] = f_val
-		print(x,y, "and",neighbours,"\n")
+		#print(x,y, "and",neighbours,"\n")
 		return neighbours
 
 	def shortest_path(s,x,y):
 		s.path.append((x,y))
 		cnt =0
-		while s.matrix[x][y] != 2:# and cnt <7:
+		while s.matrix[x][y] != 2:
 			s.neb.update(s.get_neighbours(x,y))
-			print( s.neb , "\n")
 			get_min = min(s.neb,key = s.neb.get)
 			s.path.append(get_min)
 			s.neb.pop(get_min)
 			x = get_min[0]
 			y = get_min[1]
-			
-			print("minimum is ",get_min,"\n")
-		 
-		print("path is" ,s.path)
+
+		print(s.path)
+		for i in s.path:
+			s.matrix[i[0]][i[1]] = "*"
+		for i in s.matrix:
+			for j in i:
+				print(str(" "*2+str(j)+" "*(3-len(str(j)))),end = "  ")
+			print()
+
+
+
+
 
 obj = Astar()
 
 matrix = [  [ 0,  -1,   0,    0,   0,  0],  
 			[ 0,   0,   0,    0,   0,  0], 
-			[ 0,  -1,   0,   -1,   0,  0],  
+			[ 0,  -1,   0,    0,   0,  0],  
 			[ 0,  -1,   0,    0,  -1,  0],
 			[ 0,   0,   0,    0,  -1,  2]  ]  
 
